@@ -48,16 +48,13 @@
 
 
 
-### Language stats:
 
-<img alt="Isha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha-singhal&layout=compact&theme=tokyonight&hide=Jupyter Notebook"/>
 
 ---
 
 ### Connect with me:
 
 [<img align="left" alt="Isha | LinkedIn" width="22px" target="_blank" src="https://i.stack.imgur.com/gVE0j.png" />][linkedin]
-[<img align="left" alt="Isha | Twitter" width="22px" target="_blank" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" />][twitter]
 [<img align="left" alt="Isha | Instagram" width="22px" target="_blank" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.png" />][instagram]
 
 <br/>
@@ -67,7 +64,6 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/isha-singhal12/
-[twitter]: https://twitter.com/which_Isha
 [instagram]: https://www.instagram.com/isha_singhal_/
 [portfolio]: https://isha-portfolio.netlify.app/
 
